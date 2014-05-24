@@ -23,7 +23,7 @@ $(function () {
 			"left": 		0,
 			"margin-bottom": 	-editorHeight,
 			"z-index": 		100,
-			"overflow": 		"scroll',
+			"overflow": 		"scroll",
 			"overflow-x": 		"hidden",
 			"overflow-y": 		"scroll"
 		});
